@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rtsp_pusher",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_pic_pusher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_pic_pusher-Debug-eba88f71476a4ff4b4a8.json",
+					"name" : "test_pic_pusher",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/weifeng/Documents/PlanB/git_task/rtsp_pusher/rtsp_pusher_simple_x86_aach64_20240816_0900/rtsp_pusher_simple/build",
+		"source" : "/home/weifeng/Documents/PlanB/git_task/rtsp_pusher/rtsp_pusher_simple_x86_aach64_20240816_0900/rtsp_pusher_simple"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

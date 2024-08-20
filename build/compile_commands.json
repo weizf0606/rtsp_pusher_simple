@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/weifeng/Documents/PlanB/git_task/rtsp_pusher/rtsp_pusher_simple_x86_aach64_20240816_0900/rtsp_pusher_simple/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I../thirdparty/aarch64/include -I/home/kotei/arm_lib/OSS/include -I../src -I../src/net -I../src/3rdpart -I../src/convertor -I../src/package   -std=c++14  -std=c++14 -g -O0 -Wall -ggdb   -o CMakeFiles/test_pic_pusher.dir/example/test_pic_pusher.cpp.o -c /home/weifeng/Documents/PlanB/git_task/rtsp_pusher/rtsp_pusher_simple_x86_aach64_20240816_0900/rtsp_pusher_simple/example/test_pic_pusher.cpp",
+  "file": "/home/weifeng/Documents/PlanB/git_task/rtsp_pusher/rtsp_pusher_simple_x86_aach64_20240816_0900/rtsp_pusher_simple/example/test_pic_pusher.cpp"
+}
+]
